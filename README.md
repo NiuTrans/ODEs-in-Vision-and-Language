@@ -31,7 +31,7 @@ To cite this article, please use the following BibTeX entry:
 @article{xiao-etal:2026ode,
     title={Ordinary Differential Equations in Vision and Language},
     author={Tong Xiao, Junhao Ruan, Bei Li, Zhengtao Yu, Min Zhang and Jingbo Zhu},
-    journal={NiuTrans},
+    journal={???},
     year={2026}
 }
 ```
