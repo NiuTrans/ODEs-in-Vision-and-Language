@@ -25,7 +25,7 @@ We also seperate each chapter to faciliate reading.
 
 One can cite this article as follows
 
-@book{xiao-etal:2026odes,<br>
+@book{xiao-etal:2026ode,<br>
 &ensp;&ensp;&ensp;&ensp;title={Ordinary Differential Equations in Vision and Language},<br>
 &ensp;&ensp;&ensp;&ensp;author={Tong Xiao, Junhao Ruan, Bei Li, Zhengtao Yu, Min Zhang and Jingbo Zhu},<br>
 &ensp;&ensp;&ensp;&ensp;publisher={NiuTrans},<br>
