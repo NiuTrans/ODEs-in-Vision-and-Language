@@ -10,17 +10,17 @@ Here we present an article entitled "Ordinary Differential Equations in Vision a
 
 This article seeks to maintain a balance between depth and readability. It provides a systematic explanation of the essential concepts and methods of ODEs while covering their typical applications in language and vision tasks. Overall, this work can serve as a systematic introductory guide to ODEs and their applications in deep learning.
 
-Here's the articel in pdf <a href="./chapters/nlp-book.pdf" target="_blank">[pdf].
+Here's full version of the article in pdf <a href="./chapters/odes-in-vision-and-language.pdf" target="_blank">[pdf].
 
 We also seperate each chapter to faciliate reading.
 
 <ul>
-<li>Table of Contents <a href="./chapters/nlp-book-contents.pdf" target="_blank">[pdf]</li>
-<li>Table of Contents <a href="./chapters/nlp-book-contents.pdf" target="_blank">[pdf]</li>
-<li>Table of Contents <a href="./chapters/nlp-book-contents.pdf" target="_blank">[pdf]</li>
-<li>Table of Contents <a href="./chapters/nlp-book-contents.pdf" target="_blank">[pdf]</li>
-<li>Table of Contents <a href="./chapters/nlp-book-contents.pdf" target="_blank">[pdf]</li>
-<li>Table of Contents <a href="./chapters/nlp-book-contents.pdf" target="_blank">[pdf]</li>
+<li>Chapter 1: Mathematical Preliminaries <a href="./chapters/chapter1-preliminaries.pdf" target="_blank">[pdf]</li>
+<li>Chapter 2: The ODE Perspective on Transformers <a href="./chapters/chapter2-ode-transformer.pdf" target="_blank">[pdf]</li>
+<li>Chapter 3: Neural ODEs and Flows <a href="./chapters/chapter3-neural-ode.pdf" target="_blank">[pdf]</li>
+<li>Chapter 4: Diffusion Models in Vision <a href="./chapters/chapter4-diffusion-models-in-vision.pdf" target="_blank">[pdf]</li>
+<li>Chapter 5: Diffusion Models in Language <a href="./chapters/chapter5-diffusion-models-in-language.pdf" target="_blank">[pdf]</li>
+<li>Chapter 6: Conclusions and Future Directions <a href="./chapters/chapter6-conclusions-and-future-directions.pdf" target="_blank">[pdf]</li>
 </ul>
 
 One can cite this article as follows
