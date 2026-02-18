@@ -1,6 +1,6 @@
 # Ordinary Differential Equations in Vision and Language
 
-Ordinary differential equations (ODEs) and related differential-equation formalisms are powerful mathematical tools for modeling a wide range of deep learning problems. In essence, an ODE describes how the state of a system changes as time varies. Here "time" can represent physical time, network depth, or the noise level used in generative modeling. The canonical form of an ODE is
+Ordinary differential equations (ODEs) and related differential-equation formalisms are powerful mathematical tools for modeling a wide range of deep learning problems. In essence, an ODE describes how the state of a system changes as time varies. Here "time" can represent physical time, network depth, or the noise level used in generative modeling. The canonical form of an ODE is:
 
 $$\frac{d\mathbf{x}(t)}{dt}=f(\mathbf{x}(t),t),$$
 
