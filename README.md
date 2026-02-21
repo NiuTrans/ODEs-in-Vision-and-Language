@@ -13,7 +13,7 @@ This article seeks to maintain a balance between depth and readability. It provi
 
 ## Resources
 
-The full version of the article is available in pdf format: [[pdf]](./chapters/odes-in-vision-and-language.pdf).
+The full version of the article is available here: [[pdf]](https://www.techrxiv.org/users/1028519/articles/1388630-ordinary-differential-equations-in-vision-and-language).
 
 We also provide individual chapters to facilitate reading:
 
@@ -34,7 +34,7 @@ To cite this article, please use the following BibTeX entry:
 @article{xiao-etal:2026ode,
     title={Ordinary Differential Equations in Vision and Language},
     author={Tong Xiao, Junhao Ruan, Bei Li, Zhengtao Yu, Min Zhang and Jingbo Zhu},
-    journal={NiuTrans???},
+    journal={TechRxiv preprint TechRxiv.177160477.75893679},
     year={2026}
 }
 ```
