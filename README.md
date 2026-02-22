@@ -11,7 +11,8 @@ In the article ***Ordinary Differential Equations in Vision and Language***, we 
 This article seeks to maintain a balance between depth and readability. It provides a systematic explanation of the essential concepts and methods of ODEs while covering their typical applications in language and vision tasks. Overall, this work can serve as an introductory guide to ODEs and their applications in deep learning.
 
 <div align="center">
-<img src="toc.png" width=100% height=100% />
+<img src="./toc.png" width="100%" height="100%" />
+
 </div>
 
 ## Resources
