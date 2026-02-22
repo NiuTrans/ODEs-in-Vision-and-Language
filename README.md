@@ -16,7 +16,7 @@ This article seeks to maintain a balance between depth and readability. It provi
 
 ## Resources
 
-The full version of the article is available here: [[pdf]](https://www.techrxiv.org/users/1028519/articles/1388630-ordinary-differential-equations-in-vision-and-language).
+The full version of the article is available here: [[pdf]](https://www.techrxiv.org/doi/full/10.36227/techrxiv.177160477.75893679/v1).
 
 We also provide individual chapters to facilitate reading:
 
