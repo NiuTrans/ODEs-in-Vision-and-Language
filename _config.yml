@@ -1,3 +1,4 @@
-title: ODEs in Vision and Language
-markdown: kramdown
 theme: jekyll-theme-cayman
+markdown: kramdown
+kramdown:
+  math_engine: null
